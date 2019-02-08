@@ -1,0 +1,5 @@
+c:\users\dave\documents\visual studio 2012\Projects\Login_Code_Example\Login_Code_Example\bin\Login_Code_Example.dll
+c:\users\dave\documents\visual studio 2012\Projects\Login_Code_Example\Login_Code_Example\bin\Login_Code_Example.pdb
+c:\users\dave\documents\visual studio 2012\Projects\Login_Code_Example\Login_Code_Example\obj\Debug\Login_Code_Example.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2012\Projects\Login_Code_Example\Login_Code_Example\obj\Debug\Login_Code_Example.dll
+c:\users\dave\documents\visual studio 2012\Projects\Login_Code_Example\Login_Code_Example\obj\Debug\Login_Code_Example.pdb

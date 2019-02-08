@@ -1,0 +1,163 @@
+﻿* {
+    margin:0;
+}
+
+body {
+	height:100%;
+	font-family: Calibri;
+}
+
+nav {
+	position: fixed;
+	width:100%;
+	height:70px;
+	background-color: black;
+	opacity:0.5;
+    font-size:1.2em;
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+	margin-left:30px;
+	line-height:70px;
+}
+
+nav a:hover {
+	text-decoration: underline;
+}
+
+#buffer1 {
+    position:relative;
+    width:100%;
+    height:160px;
+    z-index:-100;
+}
+
+#buffer2 {
+    position:relative;
+    width:100%;
+    height:160px;
+    z-index:-100;
+}
+
+.center {
+    width: 450px;
+    height: 230px;
+    padding: 10px;
+    position:relative;
+    margin-top:160px;
+    border-radius:5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.text {
+    font-family:Calibri;
+    color:gray;
+    text-decoration:none;
+    top: 0px;
+    left: 0px;
+}
+
+.textboxesrounded {
+    border-radius:3px;
+}
+
+.LoginResetButton {
+    background-color:gray;
+    color:white;
+    border-color:gray;
+    border-radius:30px;
+}
+
+.LoginResetButton:hover {
+    background-color:orange;
+    border-color:orange;
+}
+
+.divRow0 {
+    position:absolute;
+    top:5px;
+    width:90%;
+    height:16px;
+    margin: auto;
+    padding: 10px;  
+    border-radius:5px;
+    text-align:center;
+    vertical-align:central;
+    font-size:1.3em;
+}
+
+.divRow1 {
+    position:absolute;
+    top:50px;
+    width:90%;
+    height:16px;
+    margin: auto;
+    padding: 10px;  
+    border-radius:5px;
+    text-align:center;
+}
+
+.divRow2 {
+    position:absolute;
+    top:95px;
+    width:90%;
+    height:16px;
+    margin: auto;
+    padding: 10px;  
+    border-radius:5px;
+    text-align:center;
+}
+
+.divRow3 {
+    position:absolute;
+    top:140px;
+    width:90%;
+    height:16px;
+    margin: auto;
+    padding: 10px;  
+    border-radius:5px;
+    text-align:center;
+}
+
+.flex-container {
+    position: absolute;
+    height: auto;
+    width: 100%;
+    margin-left:0;    
+    display: flex;
+    flex-direction: row;
+    top:3px;
+    right:3px
+}
+ 
+.flex-left {
+    width: 28%;
+    margin: 1px;
+    text-align: center;
+}
+
+.flex-right {
+    width: 68%;
+    margin: 1px;
+    text-align: center;  
+}
+
+footer {
+    height:160px;
+    width:100%;
+}
+
+footer p {
+	margin-left:16px;
+	max-width:1148px;
+	font-size:0.8em;
+    letter-spacing:0.05em;
+}
+
+footer a {
+    text-decoration:none;
+}
